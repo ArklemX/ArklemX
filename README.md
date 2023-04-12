@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Marcel Avaika</h1>
 <h3 align="center">A passionate backend and mobile developer from Cameroon. But I mostly identify myself as a "All Kind" tech developer.</h3>
 
